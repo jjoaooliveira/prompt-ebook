@@ -1,7 +1,8 @@
 
 # Projeto EBOOK gerado por IAs
 
-Projeto com objetivo de gerar um ebook a partir do uso de ferramentas de Inteligências Artificiais (IA).
+Projeto com objetivo de gerar um ebook a partir do uso de ferramentas de Inteligências Artificiais (IA).  
+[📖Confira o ebook](https://github.com/jjoaooliveira/prompt-ebook/blob/main/output/dio-ebook-javagc.pdf)
 
 ## 🤖Tecnologias utilizadas
 
@@ -45,8 +46,8 @@ Projeto com objetivo de gerar um ebook a partir do uso de ferramentas de Intelig
 ## 🎯Features
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Microsoft Copilot
-## Materiais
+## 📚Materiais
 - Imagens utilizadas em `assets`
 - Ebook gerado em `output`
-## Instruções de Execução
+## 🔧Instruções de Execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, google slides, entre outros.
